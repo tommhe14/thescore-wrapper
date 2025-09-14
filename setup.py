@@ -6,7 +6,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="thescore-wrapper",
-    version="0.0.1",  
+    version="0.0.2",  
     description="Python API wrapper for theScore undocumented API",
     long_description=README,
     long_description_content_type="text/markdown",
